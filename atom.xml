@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xininn.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-12-24T03:49:25.836Z</updated>
+    <updated>2019-12-24T03:51:18.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xininn.github.io/"/>
     <link rel="self" href="https://xininn.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>关注分享，关注导航，关注馨客栈</subtitle>
     <logo>https://xininn.github.io//images/avatar.png</logo>
     <icon>https://xininn.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
